@@ -15,4 +15,4 @@ Click [here][rpubs] for the interactive map
 <img src="E_helias_d.png" />
 </p>
 
-[rpubs]:(https://rpubs.com/oleon12/618773)
+[rpubs]:https://rpubs.com/oleon12/618773
