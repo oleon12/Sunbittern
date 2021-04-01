@@ -8,9 +8,11 @@ Directories:
   + __Map:__ The interactive map in HTML format, downloable. 
 
 </br>
-Click [MrBayes](https://rpubs.com/oleon12/618773) for the interactive map
+Click [here][rpubs] for the interactive map
 </br>
 
 <p align=center>
 <img src="E_helias_d.png" />
 </p>
+
+[rpubs]:(https://rpubs.com/oleon12/618773)
