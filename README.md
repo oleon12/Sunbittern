@@ -8,5 +8,5 @@ Directories:
   + Map
 
 <p align=center>
-<img src="inst/doc/alignTools_WorkFlow.png" width="400" />
+<img src="E_helias_d.png" width="400" />
 </p>
