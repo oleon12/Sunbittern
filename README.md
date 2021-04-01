@@ -12,7 +12,7 @@ Click <a href="https://rpubs.com/oleon12/618773">here</a> for the interactive ma
 </br>
 
 <p align=center>
-<img src="E_helias_.png" />
+<img src="E_helias_d.png" />
 </p>
 
 [rpubs]:https://rpubs.com/oleon12/618773
