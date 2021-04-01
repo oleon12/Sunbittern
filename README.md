@@ -2,10 +2,13 @@
 
 Directories:
 
-  + Data
-  + R
-  + shp
-  + Map
+  + __Data:__ CSV files used.
+  + __R:__ The R-scripts for the MaxEnt model.
+  + __shp:__ The shp file with the current distribution, but also with the extensions proposed.
+  + __Map:__ The interactive map in HTML format, downloable. 
+
+</br>
+¡Click [here](https://rpubs.com/oleon12/618773) for the interactive map!
 </br>
 
 <p align=center>
