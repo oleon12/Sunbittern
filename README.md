@@ -8,7 +8,7 @@ Directories:
   + __Map:__ The interactive map in HTML format, downloable. 
 
 </br>
-Click [here][rpubs] for the interactive map
+Click <a href="https://rpubs.com/oleon12/618773">here</a> for the interactive map
 </br>
 
 <p align=center>
