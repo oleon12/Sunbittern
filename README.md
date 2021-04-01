@@ -6,7 +6,8 @@ Directories:
   + R
   + shp
   + Map
+</br>
 
 <p align=center>
-<img src="E_helias_d.png" width="400" />
+<img src="E_helias_d.png" />
 </p>
