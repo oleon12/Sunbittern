@@ -1,5 +1,9 @@
 # Sunbittern Repository
 
+**Updated geographical distribution of the Sunbittern (Eurypyga helias: Eurypigidae)**
+_Leon-Alvarado OM, Mendez-Camacho KA, Arenas-Gonzáles F, Medina-Contreras D_
+Caldasia 44(3): 612--618
+
 Directories:
 
   + __Data:__ CSV files used.
